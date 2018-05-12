@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31854'
     url: http://www.gutenberg.org/2009/agents/31854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26183#Laurence-Sterne-in-GermanyEngland-and-Germany-in-the-Eighteenth-Century
 gutenberg_issued: '2008-08-03'
 gutenberg_type: Text
 identifiers:
